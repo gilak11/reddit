@@ -3,6 +3,8 @@ import praw
 import requests
 import time
 import logging
+from keep_alive import keep_alive
+keep_alive()
 
 # Reddit API credentials
 reddit_client_id = os.environ.get('REDDIT_CLIENT_ID')

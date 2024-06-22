@@ -150,6 +150,9 @@ berliner-zeitung.de##[class^="outbrain"]
 ! Jun 22, 2024 https://watch.livecricketsl.xyz
 watch.livecricketsl.xyz##h3
 
+! Jun 22, 2024 https://www.internetdownloadmanager.com
+||www.internetdownloadmanager.com/images/idm_screenshot_6_35.png$image
+
 ! Yavli ads
 *.jpg$script,domain=allthingsvegas.com|clashdaily.com|madworldnews.com|politicalcowboy.com|reviveusa.com|sonsoflibertymedia.com|teltarif.de|themattwalshblog.com|videogamesblogger.com
 ! https://www.reddit.com/r/uBlockOrigin/comments/12hq3us/
